@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @drewbarkman
-- 👀 I’m interested in spatial data analysis
-- 🎓 I’m currently studying Data Science & Cartography/GIS at UW-Madison
-- 📫 How to reach me: djbarkman25@gmail.com
-- 😄 Pronouns: he/him
+Hi! My name is Drew Barkman, and I'm a second-year student at the University of Wisconsin-Madison. I'm currently pursuing a bachelor's in Data Science combined with Cartography/Geographic Information Systems (GIS), plus certificates in Geospatial Data Science and Photography. 
 
-<!---
-drewbarkman/drewbarkman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can also keep up with me on [Linkedin](https://www.linkedin.com/in/drewbarkman/) and [drewbarkman.com](drewbarkman.com) :)
