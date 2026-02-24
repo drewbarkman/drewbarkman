@@ -6,5 +6,6 @@ image:
     url: "../images/transit_access.png"
     alt: "thumbnail of transit access map"
 links: 
+    map: "../../../public/transitmap.pdf"
     github: https://github.com/drewbarkman/
 ---
